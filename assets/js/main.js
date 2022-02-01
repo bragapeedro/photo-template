@@ -119,7 +119,7 @@
       // Generic sections.
       $(".main.style1").scrollex({
         mode: "middle",
-        delay: 10,
+        delay: 50,
         initialize: function () {
           $(this).addClass("inactive");
         },
@@ -136,7 +136,7 @@
 
       $(".main.style2").scrollex({
         mode: "middle",
-        delay: 10,
+        delay: 50,
         initialize: function () {
           $(this).addClass("inactive");
         },
